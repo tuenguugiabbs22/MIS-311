@@ -1,7 +1,9 @@
 Dataset: Most Visited Countries 
 
 Part 1: Data Analysis and Insight 
+
 Data Overview
+
 The selected dataset is “Most Visited Countries,” which contains information about international tourist arrivals in different countries around the world. The dataset includes predicted tourist arrivals for 2024, actual tourist arrivals for 2023 and 2022, and tourism statistics collected from World Bank sources. The purpose of this dataset is to analyse global tourism trends and compare the popularity of countries as international travel destinations. 
 The dataset consists of: 206 rows (exclude Header Row) , 6 columns
 The variables included in the dataset are:
