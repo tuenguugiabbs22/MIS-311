@@ -30,7 +30,7 @@ This dataset is useful for understanding tourism recovery, identifying highly vi
 
 **Missing Values**
 
-The dataset was checked for missing values using Excel’s filtering and “Go To Special” functions. **A total of 188 rows containing missing values** were identified in the dataset. These rows were removed to improve data accuracy, consistency, and reliability for further analysis.
+The dataset was checked for missing values using Excel’s filtering and “Go To Special” functions. **A total of 189 rows containing missing values** were identified in the dataset. These rows were removed to improve data accuracy, consistency, and reliability for further analysis.
 
 **Duplicate Rows** 
 
